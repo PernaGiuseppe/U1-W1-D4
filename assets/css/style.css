@@ -73,5 +73,38 @@ main section article h1 {
 /* FORM */
 
 /* ELEMENTI NELL' ASIDE */
+aside h2 {
+  font-size: 1.5em;
+}
+.articoliaside {
+  border: 1px solid rgb(213, 248, 255);
+  background-color: rgb(213, 248, 255);
+  width: 400px;
+  border-radius: 5px;
+  box-shadow: 3px 2px gray;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1em;
+}
 
 /* FOOTER */
+#lastblock {
+  border: 1px solid rgb(0, 85, 102);
+  background-color: rgb(0, 85, 102);
+  width: 400px;
+  border-radius: 5px;
+  box-shadow: 3px 2px gray;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1em;
+}
+footer span {
+  padding: 1em;
+}
+footer p {
+  padding: 1em;
+}
+footer a {
+  color: blueviolet;
+  font-style: bold;
+}
